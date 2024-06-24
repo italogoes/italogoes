@@ -4,5 +4,3 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-
-[![roadmap.sh](https://roadmap.sh/card/tall/66796bafae5b6c4179488788?variant=dark)](https://roadmap.sh)
